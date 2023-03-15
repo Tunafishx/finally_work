@@ -1,2 +1,2 @@
-document.body.style.background = "blue";
-setTimeout(() => (document.body.style.background = ""), 4000);
+document.body.style.background = "green"
+setTimeout(() => (document.body.style.background = ""), 4000)
